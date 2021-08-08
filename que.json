@@ -1,0 +1,26 @@
+{
+    "/bin/python3 /home/saloni/json/employee.py": {
+        "name": "Abhishek",
+        "Designation": "manager",
+        "Age": "29",
+        "salary": "63000"
+    },
+    "emp": {
+        "name": "Abhishek",
+        "Designation": "manager",
+        "Age": "29",
+        "salary": "63000"
+    },
+    "em2": {
+        "name": "Abhishek",
+        "Designation": "manager",
+        "Age": "29",
+        "salary": "63000"
+    },
+    "em3": {
+        "name": "Abhishek",
+        "Designation": "manager",
+        "Age": "29",
+        "salary": "63000"
+    }
+}
